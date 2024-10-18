@@ -7,6 +7,12 @@
   }
 }
 
+@media (max-width: 1000px) {
+  .navbar {
+    background-color: $dark;
+  }
+}
+
 .navbar .btn-outline-light:hover {
   color: $dark;
 }

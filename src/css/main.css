@@ -6,6 +6,11 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
+@media (max-width: 1000px) {
+  .navbar {
+    background-color: #2b3041;
+  }
+}
 .navbar .btn-outline-light:hover {
   color: #2b3041;
 }
