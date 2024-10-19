@@ -13,6 +13,7 @@ Welcome to the Ebook Website! This project is built using Bootstrap 5 and SASS, 
 - **Bootstrap Modals:** User-friendly modals for displaying additional content without navigating away from the page.
 - **Form & Input Styles:** Clean and styled forms for user interactions.
 - **Testimonials Section:** Showcases user feedback to build trust and engagement.
+- **Functional Form:** Form is integrated with **formspree** online service.
 
 ## Usage
 
@@ -24,7 +25,7 @@ In order to customize this website, you need to install [Node.js](https://nodejs
 
 1. **Clone the repository :**
   ```bash
-  git clone https://github.com/yourusername/ebook-website.git
+  git clone https://github.com/Harsh-v3/ebook-website.git
   ```
 2. **Navigate to the project directory :**
   ```bash
@@ -50,6 +51,7 @@ To add your own custom styles, use the `styles.scss` file.
 - CSS (SASS)
 - Bootstrap 5
 - FontAwesome (installed via npm)
+- Formspree (with forms)
 
 ## Contributing
 
